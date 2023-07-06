@@ -11,7 +11,7 @@ metadata:
     backstage.io/kubernetes-id: payments-service
   links:
     - url: https://github.com/microservices-demo/payment
-      title: Project
+      title: GitHub Repo
       icon: github
 spec:
   type: service
